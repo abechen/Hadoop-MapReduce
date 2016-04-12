@@ -1,4 +1,4 @@
-package com.abe.hadoop_mr_dev;
+package com.abe.max;
 
 import org.apache.hadoop.conf.*;
 import org.apache.hadoop.fs.Path;

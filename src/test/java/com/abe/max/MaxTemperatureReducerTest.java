@@ -1,4 +1,4 @@
-package com.abe.hadoop_mr_dev;
+package com.abe.max;
 
 import java.io.IOException;
 import java.util.Arrays;
